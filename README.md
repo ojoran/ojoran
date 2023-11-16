@@ -1,6 +1,8 @@
 
 👋 Hi, I’m Joran Oettel, a CS & Econ Student at the Technical University of Munich interested in the Generative AI Space
+
 📫 How to reach me: joran.oettel@tum.de
+
 
 <!--
 **ojoran/ojoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
