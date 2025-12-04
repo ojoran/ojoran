@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Joran Oettel, a CS & Econ Student at the Technical University of Munich interested in the Generative AI Space
+👋 Hi, I’m Joran Oettel, former Student at the Technical University of Munich
 
 📫 How to reach me: joran.oettel@tum.de
 
