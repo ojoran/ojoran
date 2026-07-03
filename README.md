@@ -1,1 +1,1 @@
-📫 How to reach me: joran.oettel@tum.de
+📫 How to reach me: hi@joranoettel.com
